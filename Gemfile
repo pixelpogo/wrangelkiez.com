@@ -11,4 +11,4 @@ gem "bootstrap-sass"
 
 gem 'middleman-bootstrap-navbar'
 
-gem 'middleman-gh-pages'
+gem 'middleman-deploy', '~> 0.3.0'
