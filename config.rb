@@ -53,6 +53,8 @@ set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
 
+activate :bootstrap_navbar
+
 activate :directory_indexes
 
 # Build-specific configuration
